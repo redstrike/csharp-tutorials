@@ -7,9 +7,7 @@ namespace BranchesAndLoops
         static void Main()
         {
             ExploreIf();
-
             ExploreWhileDoWhileForLoops();
-
             ChallengeFindTheSum();
         }
 
